@@ -1,3 +1,0 @@
-/home/humberto/Documentos/GitHub/portugol/HCIPC/HCIPCWEB/obj/anycpu/Debug/.NETFramework,Version=v4.7.2.AssemblyAttribute.cs
-/home/humberto/Documentos/GitHub/portugol/HCIPC/HCIPCWEB/bin/Debug/HCIPC.exe
-/home/humberto/Documentos/GitHub/portugol/HCIPC/HCIPCWEB/bin/Debug/HCIPC.pdb

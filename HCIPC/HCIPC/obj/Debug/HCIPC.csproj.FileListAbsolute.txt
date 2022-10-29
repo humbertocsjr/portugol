@@ -26,3 +26,11 @@
 /Users/humberto/Documents/GitHub/hcplataforma/HCPlataforma/HCIPC/obj/Debug/HCIPC.csproj.CoreCompileInputs.cache
 /Users/humberto/Documents/GitHub/hcplataforma/HCPlataforma/HCIPC/obj/Debug/HCIPC.exe
 /Users/humberto/Documents/GitHub/hcplataforma/HCPlataforma/HCIPC/obj/Debug/HCIPC.pdb
+\\Mac\Home\Downloads\portugol-main\HCIPC\HCIPC\bin\Debug\teste.hcp
+\\Mac\Home\Downloads\portugol-main\HCIPC\HCIPC\bin\Debug\HCIPC.exe.config
+\\Mac\Home\Downloads\portugol-main\HCIPC\HCIPC\bin\Debug\HCIPC.exe
+\\Mac\Home\Downloads\portugol-main\HCIPC\HCIPC\bin\Debug\HCIPC.pdb
+\\Mac\Home\Downloads\portugol-main\HCIPC\HCIPC\obj\Debug\HCIPC.csprojAssemblyReference.cache
+\\Mac\Home\Downloads\portugol-main\HCIPC\HCIPC\obj\Debug\HCIPC.csproj.CoreCompileInputs.cache
+\\Mac\Home\Downloads\portugol-main\HCIPC\HCIPC\obj\Debug\HCIPC.exe
+\\Mac\Home\Downloads\portugol-main\HCIPC\HCIPC\obj\Debug\HCIPC.pdb

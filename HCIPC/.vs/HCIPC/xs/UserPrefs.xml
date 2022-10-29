@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{4C1988DD-6B28-4A7E-A5A7-12CB66422BB4}|Default">
+  <MonoDevelop.Ide.Workbench>
+    <Files>
+      <File FileName="HCPC8086/Arq8086.cs" Line="6" Column="7" />
+      <File FileName="HCIPC/Program.cs" Line="43" Column="108" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Release|anycpu" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

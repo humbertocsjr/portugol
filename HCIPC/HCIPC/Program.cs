@@ -40,7 +40,7 @@ namespace HCIPC
     {
         public static void Main(string[] args)
         {
-            Console.Title = "Humberto Costa | Interpretador de Pseudo-Código [Github: humbertocsjr/hcipc]";
+            Console.Title = "Humberto Costa | Interpretador de Pseudo-Código [Github: humbertocsjr/portugol]";
 
 
             // Carrega o Código fonte

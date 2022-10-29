@@ -3,3 +3,15 @@
 /home/humberto/Documentos/GitHub/portugol/HCIPC/HCADWEB/bin/HCADWEB.dll
 /home/humberto/Documentos/GitHub/portugol/HCIPC/HCADWEB/obj/Debug/HCADWEB.dll
 /home/humberto/Documentos/GitHub/portugol/HCIPC/HCADWEB/obj/Debug/HCADWEB.pdb
+/Users/cris/Downloads/portugol-main/HCIPC/HCADWEB/obj/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Users/cris/Downloads/portugol-main/HCIPC/HCADWEB/bin/HCADWEB.pdb
+/Users/cris/Downloads/portugol-main/HCIPC/HCADWEB/bin/HCADWEB.dll
+/Users/cris/Downloads/portugol-main/HCIPC/HCADWEB/obj/Debug/HCADWEB.dll
+/Users/cris/Downloads/portugol-main/HCIPC/HCADWEB/obj/Debug/HCADWEB.pdb
+/Users/cris/Downloads/portugol-main/HCIPC/HCADWEB/bin/System.Web.Razor.dll
+/Users/cris/Downloads/portugol-main/HCIPC/HCADWEB/bin/Microsoft.Web.Infrastructure.dll
+/Users/cris/Downloads/portugol-main/HCIPC/HCADWEB/bin/System.Web.Helpers.dll
+/Users/cris/Downloads/portugol-main/HCIPC/HCADWEB/bin/System.Web.WebPages.Deployment.dll
+/Users/cris/Downloads/portugol-main/HCIPC/HCADWEB/bin/System.Web.WebPages.dll
+/Users/cris/Downloads/portugol-main/HCIPC/HCADWEB/bin/System.Web.WebPages.Razor.dll
+/Users/cris/Downloads/portugol-main/HCIPC/HCADWEB/bin/System.Web.Mvc.dll

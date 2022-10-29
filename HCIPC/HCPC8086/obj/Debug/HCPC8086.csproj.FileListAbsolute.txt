@@ -1,0 +1,4 @@
+/Users/cris/Downloads/portugol-main/HCIPC/HCPC8086/obj/Debug/HCPC8086.csprojAssemblyReference.cache
+/Users/cris/Downloads/portugol-main/HCIPC/HCPC8086/obj/Debug/HCPC8086.csproj.CoreCompileInputs.cache
+/Users/cris/Downloads/portugol-main/HCIPC/HCPC8086/obj/Debug/HCPC8086.exe
+/Users/cris/Downloads/portugol-main/HCIPC/HCPC8086/obj/Debug/HCPC8086.pdb

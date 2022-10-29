@@ -4,3 +4,9 @@
 /home/humberto/Documentos/GitHub/portugol/HCIPC/HCIPC/bin/Debug/HCIPC.exe
 /home/humberto/Documentos/GitHub/portugol/HCIPC/HCIPC/obj/Debug/HCIPC.exe
 /home/humberto/Documentos/GitHub/portugol/HCIPC/HCIPC/obj/Debug/HCIPC.pdb
+/Users/cris/Downloads/portugol-main/HCIPC/HCIPC/obj/Debug/.NETFramework,Version=v4.7.AssemblyAttribute.cs
+/Users/cris/Downloads/portugol-main/HCIPC/HCIPC/bin/Debug/teste.hcp
+/Users/cris/Downloads/portugol-main/HCIPC/HCIPC/bin/Debug/HCIPC.pdb
+/Users/cris/Downloads/portugol-main/HCIPC/HCIPC/bin/Debug/HCIPC.exe
+/Users/cris/Downloads/portugol-main/HCIPC/HCIPC/obj/Debug/HCIPC.exe
+/Users/cris/Downloads/portugol-main/HCIPC/HCIPC/obj/Debug/HCIPC.pdb
