@@ -1,0 +1,9 @@
+/home/humberto/Documentos/GitHub/portugol/HCIPC/HCPC8086/obj/Debug/.NETFramework,Version=v4.6.1.AssemblyAttribute.cs
+/home/humberto/Documentos/GitHub/portugol/HCIPC/HCPC8086/bin/Debug/teste.hcp
+/home/humberto/Documentos/GitHub/portugol/HCIPC/HCPC8086/bin/Debug/HCPC8086.exe.config
+/home/humberto/Documentos/GitHub/portugol/HCIPC/HCPC8086/bin/Debug/HCPC8086.pdb
+/home/humberto/Documentos/GitHub/portugol/HCIPC/HCPC8086/bin/Debug/HCPC8086.exe
+/home/humberto/Documentos/GitHub/portugol/HCIPC/HCPC8086/obj/Debug/HCPC8086.exe
+/home/humberto/Documentos/GitHub/portugol/HCIPC/HCPC8086/obj/Debug/HCPC8086.pdb
+/home/humberto/Documentos/GitHub/portugol/HCIPC/HCPC8086/bin/Debug/HCIPC.exe
+/home/humberto/Documentos/GitHub/portugol/HCIPC/HCPC8086/bin/Debug/HCIPC.pdb

@@ -1,0 +1,5 @@
+/home/humberto/Documentos/GitHub/portugol/HCIPC/HCADWEB/obj/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/humberto/Documentos/GitHub/portugol/HCIPC/HCADWEB/bin/HCADWEB.pdb
+/home/humberto/Documentos/GitHub/portugol/HCIPC/HCADWEB/bin/HCADWEB.dll
+/home/humberto/Documentos/GitHub/portugol/HCIPC/HCADWEB/obj/Debug/HCADWEB.dll
+/home/humberto/Documentos/GitHub/portugol/HCIPC/HCADWEB/obj/Debug/HCADWEB.pdb
